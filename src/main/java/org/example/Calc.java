@@ -1,9 +1,9 @@
 package org.example;
 
 public class Calc {
-    public static int calc(int num1, int num2, char operation){
+    public static int calc(int num1, int num2, char operation) {
         int result;
-        switch (operation){
+        switch (operation) {
             case '+':
                 result = num1 + num2;
                 break;

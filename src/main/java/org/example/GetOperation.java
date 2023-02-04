@@ -3,11 +3,11 @@ package org.example;
 import java.util.Scanner;
 
 public class GetOperation {
-    public static char getOperation(){
+    public static char getOperation() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input operation:");
         char operation;
-        if(scanner.hasNext()){
+        if(scanner.hasNext()) {
             operation = scanner.next().charAt(0);
         }
         else {
