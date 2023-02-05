@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="164fb3b7-afec-4535-87d3-9783b79e6961" name="Changes" comment="initial">
+    <list default="true" id="164fb3b7-afec-4535-87d3-9783b79e6961" name="Changes" comment="coorection">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/Model/CalcModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/Model/I_Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/Model/ResultModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/View/GetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/version2/View/GetValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GetInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GetInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GetOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GetOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/vasil/Projects/OOP"
   }
 }]]></component>
@@ -80,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675485324217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="coorection">
+      <created>1675487726297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675487726297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="coorection" />
+    <option name="LAST_COMMIT_MESSAGE" value="coorection" />
   </component>
 </project>
